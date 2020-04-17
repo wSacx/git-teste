@@ -4,7 +4,9 @@
   "description": "Repositório da atividade remota",
   "main": "index.html",
   "scripts": {
-    "test": "ed"
+    "start": "npm run lite",
+    "test": "ed",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/wSacx/git-teste/issues"
   },
-  "homepage": "https://github.com/wSacx/git-teste#readme"
+  "homepage": "https://github.com/wSacx/git-teste#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
