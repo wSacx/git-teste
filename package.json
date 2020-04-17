@@ -1,0 +1,19 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "description": "Repositório da atividade remota",
+  "main": "index.html",
+  "scripts": {
+    "test": "ed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wSacx/git-teste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wSacx/git-teste/issues"
+  },
+  "homepage": "https://github.com/wSacx/git-teste#readme"
+}
